@@ -323,3 +323,18 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+
+jekyll_compose:
+  default_front_matter:
+    posts:
+      description:
+      image:
+        path:
+        alt:
+      category: []
+      tags: []
+      pin: false
+      math: true
+      mermaid: true
